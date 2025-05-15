@@ -727,10 +727,7 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-<<<<<<< HEAD
     border-radius: 50%;
-=======
->>>>>>> ea209e80be5ae08086ebb7e50176642290c27b9d
 }
 
 .team-member h3 {
@@ -755,19 +752,13 @@ img {
 
 .footer-logo {
     flex: 1 1 300px;
-<<<<<<< HEAD
     text-align: center;
-=======
->>>>>>> ea209e80be5ae08086ebb7e50176642290c27b9d
 }
 
 .footer-logo h2 {
     color: var(--secondary-color);
     margin-bottom: 10px;
-<<<<<<< HEAD
     text-align: center;
-=======
->>>>>>> ea209e80be5ae08086ebb7e50176642290c27b9d
 }
 
 .footer-contact, .footer-social {
