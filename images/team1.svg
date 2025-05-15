@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="100" fill="#e0e0e0"/>
+  <text x="50%" y="50%" font-family="Arial" font-size="16" fill="#999" text-anchor="middle" dominant-baseline="middle">项目负责人</text>
+  <g transform="translate(100, 80)">
+    <circle cx="0" cy="0" r="30" fill="#ccc"/>
+    <circle cx="-10" cy="-5" r="5" fill="#999"/>
+    <circle cx="10" cy="-5" r="5" fill="#999"/>
+    <path d="M-10,10 Q0,20 10,10" stroke="#999" stroke-width="2" fill="none"/>
+  </g>
+  <path d="M70,120 C70,160 130,160 130,120" fill="#ccc"/>
+</svg>

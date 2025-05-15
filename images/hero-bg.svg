@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e5b94" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#c41230" stop-opacity="0.8"/>
+    </linearGradient>
+    <pattern id="pattern-circles" width="50" height="50" patternUnits="userSpaceOnUse">
+      <circle cx="25" cy="25" r="1" fill="#fff" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#bg-gradient)"/>
+  <rect width="100%" height="100%" fill="url(#pattern-circles)"/>
+  <g opacity="0.1">
+    <path d="M0,540 L1920,540" stroke="#fff" stroke-width="2"/>
+    <path d="M960,0 L960,1080" stroke="#fff" stroke-width="2"/>
+  </g>
+  <g opacity="0.2">
+    <path d="M200,200 L300,300 L400,250 L500,350 L600,300 L700,400" stroke="#f9c22e" stroke-width="3" fill="none"/>
+    <path d="M1200,700 L1300,650 L1400,750 L1500,700 L1600,800 L1700,750" stroke="#f9c22e" stroke-width="3" fill="none"/>
+  </g>
+  <g opacity="0.15">
+    <circle cx="300" cy="800" r="50" stroke="#fff" stroke-width="2" fill="none"/>
+    <circle cx="1600" cy="300" r="70" stroke="#fff" stroke-width="2" fill="none"/>
+    <circle cx="960" cy="540" r="100" stroke="#f9c22e" stroke-width="2" fill="none"/>
+  </g>
+</svg>
